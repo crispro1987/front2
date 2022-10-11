@@ -1,0 +1,13 @@
+:root{
+    --bg-main-color: #75736f;
+    --bg-black-color: #000000;
+    --bg-white-color: white;
+    --color-white: white;
+    --color-primary: #000000;
+    --color-secondary: #ffd136;
+    --mdc-theme-primary: #ffd136 !important;
+}
+
+body{
+    background-color: var(--bg-main-color);
+}
